@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "save-dev": "^0.0.1-security",
-    "serverless": "^1.34.0",
+    "serverless": "^3.34.0",
     "serverless-offline": "^12.0.4"
   },
   "devDependencies": {
