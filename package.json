@@ -1,0 +1,16 @@
+{
+  "name": "1908_vincent",
+  "version": "1.0.0",
+  "description": "This is a coaching exercise 19 Aug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "save-dev": "^0.0.1-security",
+    "serverless": "^3.34.0",
+    "serverless-offline": "^12.0.4"
+  }
+}
