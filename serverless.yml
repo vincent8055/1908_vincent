@@ -15,7 +15,8 @@ functions:
       - httpApi:
           path: /
           method: get
-
+    environment:
+      ACCESS_KEY: ${ssm:vincent-parameter}
 plugins:
   - serverless-offline
 
