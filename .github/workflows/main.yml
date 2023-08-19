@@ -40,7 +40,6 @@ package-scan:
         run: npm install
       - name: Run audit
         run: npm audit
-
   deploy:
     name: deploy
     runs-on: ubuntu-latest
